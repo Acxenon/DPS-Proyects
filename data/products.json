@@ -1,0 +1,122 @@
+[
+    {
+    "id": 1,
+    "name": "Laptop Gamer",
+    "price": 1200,
+    "image": "/images/laptop.png"
+    },
+    {
+    "id": 2,
+    "name": "Mouse RGB",
+    "price": 35,
+    "image": "/images/mouse.png"
+    },
+    {
+    "id": 3,
+    "name": "Teclado Mecánico RGB",
+    "price": 85,
+    "image": "/images/keyboard.png"
+    },
+    {
+    "id": 4,
+    "name": "Monitor 27'' Full HD",
+    "price": 280,
+    "image": "/images/monitor.png"
+    },
+    {
+    "id": 5,
+    "name": "Audífonos Gamer",
+    "price": 65,
+    "image": "/images/headset.png"
+    },
+    {
+    "id": 6,
+    "name": "Silla Gamer Ergonómica",
+    "price": 350,
+    "image": "/images/chair.png"
+    },
+    {
+    "id": 7,
+    "name": "Disco SSD 1TB",
+    "price": 120,
+    "image": "/images/ssd.png"
+    },
+    {
+    "id": 8,
+    "name": "Memoria RAM 16GB DDR4",
+    "price": 90,
+    "image": "/images/ram.png"
+    },
+    {
+    "id": 9,
+    "name": "Tarjeta Gráfica RTX 4060",
+    "price": 650,
+    "image": "/images/gpu.png"
+    },
+    {
+    "id": 10,
+    "name": "Fuente de Poder 750W",
+    "price": 110,
+    "image": "/images/psu.png"
+    },
+    {
+    "id": 11,
+    "name": "Placa Madre Gaming",
+    "price": 180,
+    "image": "/images/motherboard.png"
+    },
+    {
+    "id": 12,
+    "name": "Procesador Intel i7",
+    "price": 420,
+    "image": "/images/cpu.png"
+    },
+    {
+    "id": 13,
+    "name": "Router WiFi 6",
+    "price": 140,
+    "image": "/images/router.png"
+    },
+    {
+    "id": 14,
+    "name": "Webcam Full HD",
+    "price": 70,
+    "image": "/images/webcam.png"
+    },
+    {
+    "id": 15,
+    "name": "Micrófono USB",
+    "price": 95,
+    "image": "/images/microphone.png"
+    },
+    {
+    "id": 16,
+    "name": "Licencia Windows 11 Pro",
+    "price": 150,
+    "image": "/images/windows.png"
+    },
+    {
+    "id": 17,
+    "name": "Antivirus Premium 1 Año",
+    "price": 45,
+    "image": "/images/antivirus.png"
+    },
+    {
+    "id": 18,
+    "name": "Tablet Android 10''",
+    "price": 230,
+    "image": "/images/tablet.png"
+    },
+    {
+    "id": 19,
+    "name": "Impresora Multifuncional",
+    "price": 210,
+    "image": "/images/printer.png"
+    },
+    {
+    "id": 20,
+    "name": "UPS 1200VA",
+    "price": 160,
+    "image": "/images/ups.png"
+    }
+]

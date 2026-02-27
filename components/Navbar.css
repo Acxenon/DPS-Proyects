@@ -1,0 +1,21 @@
+.navbar {
+  background-color: #020617;
+  padding: 16px 32px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar h1 {
+  color: #38bdf8;
+}
+
+.navbar-links {
+  display: flex;
+  gap: 20px;
+}
+
+.logout {
+  background-color: #dc2626;
+  color: white;
+}

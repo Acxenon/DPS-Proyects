@@ -1,0 +1,33 @@
+.cart-item {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  background-color: #020617;
+  padding: 12px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.cart-item img {
+  width: 60px;
+}
+
+.quantity-controls {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 6px;
+}
+
+.quantity-controls button {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: #2563eb;
+  color: white;
+  font-weight: bold;
+}
+
+.quantity-controls button:hover {
+  background-color: #1d4ed8;
+}

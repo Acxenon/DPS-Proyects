@@ -1,0 +1,51 @@
+.invoice {
+  background-color: #020617;
+  padding: 30px;
+  border-radius: 12px;
+  max-width: 800px;
+  margin: 40px auto;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.6);
+}
+
+.invoice h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #38bdf8;
+}
+
+.invoice-header p {
+  margin: 4px 0;
+}
+
+.invoice-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+.invoice-table th,
+.invoice-table td {
+  border-bottom: 1px solid #334155;
+  padding: 10px;
+  text-align: center;
+}
+
+.invoice-table th {
+  color: #38bdf8;
+}
+
+.invoice-totals {
+  text-align: right;
+  margin-top: 20px;
+}
+
+.invoice-totals h2 {
+  color: #22c55e;
+}
+
+.thanks {
+  text-align: center;
+  margin-top: 30px;
+  font-weight: bold;
+  color: #22c55e;
+}
